@@ -1,0 +1,25 @@
+body {
+    background-color:lightgrey;0
+}
+
+button {
+    background-color:white;
+    border-radius:5px;
+}
+
+label {
+    background-color:grey;
+    border-radius:5px;
+  
+}
+
+input {
+    background-color:lightbrown;
+    border-radius:5px;
+}
+
+h1 {
+    background-color:grey;
+    border-radius:5px;
+}
+
